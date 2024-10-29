@@ -1,0 +1,3 @@
+- Finding and reading elements
+- Creating and Deleting
+- Editing Elements
